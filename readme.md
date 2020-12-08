@@ -1,6 +1,6 @@
 # PyData IT-Landschaft: Ein Software-Rundgang
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/krlng/PyData-Artikel/master?urlpath=lab/tree/Artikel.ipynb)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/krlng/PyData-Artikel/main?urlpath=lab/tree/Artikel.ipynb)
 
 :de: Interaktive Version des [Heise Article](https://www.heise.de/news/Neues-iX-Developer-Sonderheft-Machine-Learning-am-Kiosk-erhaeltlich-4971593.html) zur PyData Software Landschaft für Data Science.
 
